@@ -279,6 +279,7 @@ group("foundation_unittests") {
     "core/common:foundation_unittests",
     "core/i18n:foundation_unittests",
     "models/ai_assistance:foundation_unittests",
+    "models/issues_manager:foundation_unittests",
   ]
 }
 
@@ -304,6 +305,7 @@ group("docs") {
     "ui/components/buttons:copy_stylesheets_for_server",
     "ui/components/buttons:docs",
     "ui/components/icon_button:docs",
+    "ui/components/snackbars:docs",
     "ui/components/spinners:docs",
     "ui/components/survey_link:docs",
     "ui/components/switch:docs",
